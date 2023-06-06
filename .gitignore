@@ -2,5 +2,6 @@
 airflow_env/
 logs/
 secrets/
+.idea/
 
 
