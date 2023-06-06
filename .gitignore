@@ -1,0 +1,6 @@
+.env
+airflow_env/
+logs/
+secrets/
+
+
